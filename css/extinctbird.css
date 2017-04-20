@@ -20,11 +20,13 @@ padding: 2em;
 font-family:  'Open Sans', sans-serif;}
 
 /*///////////////////content/////////*/
-h1  {font-size: 4em;
-width: 15em;
+h1  {font-size: 7em;
+width: 10.7em;
 margin-top: 1em;
 font-family:"roboto";
 border-left: thick solid #ffcc00;
+    position: relative;
+    right: .3em;
 }
 
 h3 {font-size: 1em;
@@ -115,12 +117,12 @@ margin: 1em;
 border: 4px solid #ffcc00;}
 .the-quest p{line-height: 1.6;
 padding:.3em;}
-.the-quest blockquote {text-align: center;
+.the-quest blockquote {
 font-size: 1.3em;
 position: relative;
-top: 2.3em;
-left: 3em;
-margin-bottom: 1.6em;}
+top: 3em;
+left: 5em;
+margin-bottom: 3em;}
 .dr-orbell{float: left;
     display: inline-block;}
 figcaption {display: block;
